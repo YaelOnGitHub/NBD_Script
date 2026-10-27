@@ -1,0 +1,11 @@
+{
+  "name": "nbd-config-generator",
+  "version": "1.1.0",
+  "private": true,
+  "scripts": {
+    "generate": "node generate.js"
+  },
+  "dependencies": {
+    "exceljs": "^4.4.0"
+  }
+}
